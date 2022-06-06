@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Qelik
+- 👀 I’m interested in coding applications
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: qelik.h@gmail.com
