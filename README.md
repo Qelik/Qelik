@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Qelik
 - 👀 I’m interested in coding applications
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: qelik.h@gmail.com
